@@ -1,0 +1,6 @@
+
+mysql-ctl start
+
+Run Project click
+
+URL open
